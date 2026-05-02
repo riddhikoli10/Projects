@@ -1,0 +1,5 @@
+{
+  "name": "Sentilyze Pro",
+  "description": "A high-performance social media sentiment analysis dashboard powered by Gemini 3. Analyze post sentiment, extract key topics, and visualize emotional trends with AI-driven insights.",
+  "requestFramePermissions": []
+}
